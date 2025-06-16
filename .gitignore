@@ -1,0 +1,47 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.ENV/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Bytecode compilado
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log
+*.log
+
+# Archivos de salida o temporales
+*.out
+*.tmp
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de base de datos temporales
+*.sqlite3
+*.db
+
+# Archivos de audio descargados o generados temporalmente
+*.mp3
+*.wav
+etc/music/
+downloads/
+
+# Archivos de pruebas locales
+test_*.py
+*.bak
+
+# Archivos del entorno de desarrollo remoto
+*.code-workspace
